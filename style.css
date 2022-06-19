@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Oswald:wght@200;600&family=Pacifico&family=Roboto+Mono:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Pacifico&family=Roboto+Mono:wght@100&display=swap');
+
+
+nav.navbar a.nav-link
+{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800px;
+}
+nav.navbar div.container a.navbar-brand {
+    font-family: 'Pacifico', cursive; 
+}
